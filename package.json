@@ -1,0 +1,24 @@
+{
+    "name": "nodeweb",
+    "version": "1.0.0",
+    "description": "Pagina web creada desde nodejs",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "pug": "^3.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anekc/TiendaPlayerasNode.git"
+    },
+    "author": "Alejandro Arteaga",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/anekc/TiendaPlayerasNode/issues"
+    },
+    "homepage": "https://github.com/anekc/TiendaPlayerasNode#readme"
+}

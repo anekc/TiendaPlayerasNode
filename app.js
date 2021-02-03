@@ -2,6 +2,8 @@ var express = require('express');
 var fs = require('fs');
 var app = express();
 
+const pug = require('pug');
+
 app.use(express.static(__dirname + '/public'));
 
 
