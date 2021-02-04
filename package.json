@@ -1,6 +1,6 @@
 {
     "name": "nodeweb",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Pagina web creada desde nodejs",
     "main": "app.js",
     "dependencies": {
